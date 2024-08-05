@@ -1,0 +1,177 @@
+body {
+  background-color: #ffff;
+  font-family: Inter, sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.nav-link {
+  font-weight: 500;
+}
+.navbar {
+  z-index: 3;
+}
+* {
+  z-index: 2;
+}
+#hero {
+  height: 100vh;
+  width: 100%;
+}
+.font-hero {
+  color: #0db760;
+}
+.tagline-hero {
+  color: black;
+  width: 900px;
+  height: 500px;
+  margin-top: 220px;
+  margin-left: 50px;
+}
+.tagline-hero h1 {
+  color: black;
+  font-weight: 580;
+  font-size: 58px;
+  line-height: 70px;
+}
+.icon-hero .bi {
+  font-size: 40px;
+  text-decoration: none;
+  color: black;
+}
+.picture-hero {
+  width: 900px;
+  height: 500px;
+}
+.foto-hero {
+  width: 600px;
+  height: 600px;
+}
+.effect-hero {
+  width: 550px;
+  height: 600px;
+  z-index: 1;
+}
+
+.square-green-hero {
+  width: 420px;
+  height: 420px;
+  z-index: 1;
+}
+
+.foto-tentang {
+  width: 400px;
+  height: 450px;
+  margin-left: 100px;
+  margin-top: 40px;
+}
+.box-tentang {
+  width: 600px;
+  height: 600px;
+}
+
+.square-green-tentang {
+  width: 400px;
+  height: 400px;
+  z-index: 1;
+  margin-top: 120px;
+  margin-left: 70px;
+}
+.box-tentang {
+  width: 500px;
+  height: 400px;
+  margin-top: 45px;
+}
+.box-tentang h2 {
+  font-weight: bold;
+}
+
+.font-highlight-tentang {
+  color: #0db760;
+}
+
+.box-tentang p {
+  font-size: 20px;
+}
+
+/* Perguruan Tinggi */
+
+#perguruan {
+  background-color: #0db760;
+}
+.head-perguruan {
+  color: white;
+  font-weight: bold;
+}
+.font-perguruan {
+  color: white;
+  font-size: 22px;
+}
+
+/* Cita */
+
+#cita-cita {
+  background-color: #0db760;
+}
+.picture-cita {
+  width: 500px;
+  height: 500px;
+}
+.program-img-cita {
+  width: 300px;
+  height: 200px;
+}
+.program-img-cita1 {
+  width: 200px;
+  height: 200px;
+}
+.font-cita {
+  font-size: 22px;
+
+  color: white;
+}
+
+/* Mata Pelajaran */
+
+.head-mapel {
+  font-weight: bold;
+}
+.font-mapel {
+  font-size: 22px;
+}
+
+/* Kelebihan dan Bakat */
+
+.head-bakat {
+  font-weight: bold;
+}
+.img-bakat {
+  width: 450px;
+  height: 400px;
+}
+.font-bakat {
+  font-size: 22px;
+}
+
+/* Skill */
+
+#skill {
+  background-color: #0db760;
+  border: none;
+}
+.img-skill {
+  width: 400px;
+  height: 400px;
+}
+.head-skill {
+  font-weight: bold;
+  color: white;
+}
+.font-skill {
+  font-size: 22px;
+  color: white;
+}
+.wave {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  border: none;
+}
